@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "829616481851",
+    "project_id": "presensi-pegawai-77e4a",
+    "storage_bucket": "presensi-pegawai-77e4a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:829616481851:android:fe4fab72c3a26fb66a1e1e",
+        "android_client_info": {
+          "package_name": "com.example.presensi_pegawai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDB_DClXWWMwV4BFobQSwwZfK7SvIlZkls"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
